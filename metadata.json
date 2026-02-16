@@ -1,0 +1,7 @@
+{
+  "name": "Radiant Vibe",
+  "description": "A high-energy, positive daily motivation app that uses Gemini to generate personalized affirmations and uplifting content based on your focus areas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
